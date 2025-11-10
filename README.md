@@ -40,7 +40,7 @@ This project is designed to be fast, responsive, and scalable.
 Clone the repository:
 
 ```bash
-git clone https://github.com/01Subham/musix-react-app.git
+git clone https://github.com/sengaraashka/music-react-app-1.git
 cd musix-react-app
 ```
 
@@ -111,7 +111,7 @@ Your app can be easily deployed to any modern hosting platform such as Vercel, N
 
 🔗 Live Demo
 
-[👉 Musix React App — Live Deployment](https://musix-react.netlify.app/)
+[👉 Musix React App — Live Deployment](http://localhost:5173/login)
 
 🚀 Deploy on Vercel
 
@@ -136,18 +136,10 @@ Drag and drop the dist/ folder into Netlify Drop
 
 Or connect your GitHub repo and enable Continuous Deployment.
 
----
 
-## ✨ Author
-👨‍💻 Developed by [**01Subham**](https://github.com/01Subham)  
-Feel free to fork and contribute! 🚀
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
